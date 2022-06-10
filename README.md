@@ -1,2 +1,2 @@
-# Rust_Open_Projects
-Bunch of Rust Projects Mainly as a learning journey in rust
+# Rust_Projects
+Making Bunch of Rust Projects mainly for Learning Purposes.
