@@ -1,1 +1,1 @@
-Learning Rust while programminggames.
+Learning Rust while programming games.
