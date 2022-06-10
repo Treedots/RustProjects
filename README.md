@@ -1,2 +1,2 @@
-# Rust_Projects
+# RustProjects
 Making Bunch of Rust Projects mainly for Learning Purposes.
